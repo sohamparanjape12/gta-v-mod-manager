@@ -7,23 +7,22 @@ Designed for super-fast, in-place mod installs with a clean and responsive UI—
 
 <table>
   <tr>
-    <td>
-      <img src="public/ss1.png" width="360"/>
+    <td align="center">
+      <img src="public/ss1.png"/>
     </td>
-    <td>
-      <img src="public/ss2.png" width="360"/>
+    <td align="center">
+      <img src="public/ss2.png"/>
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="public/ss3.png" width="360"/>
+    <td align="center">
+      <img src="public/ss3.png"/>
     </td>
-    <td>
-      <img src="public/ss4.png" width="360"/>
+    <td align="center">
+      <img src="public/ss4.png"/>
     </td>
   </tr>
 </table>
-
 
 ---
 
