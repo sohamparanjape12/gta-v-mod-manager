@@ -3,6 +3,28 @@
 A modern desktop mod manager for Grand Theft Auto V, built with Tauri (Rust backend) and React (frontend).  
 Designed for super-fast, in-place mod installs with a clean and responsive UI—no more tedious RPF repacking!
 
+## Screenshots
+
+<table>
+  <tr>
+    <td>
+      <img src="assets/ss1.png" width="360"/>
+    </td>
+    <td>
+      <img src="assets/ss2.png" width="360"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="assets/ss3.png" width="360"/>
+    </td>
+    <td>
+      <img src="assets/ss4.png" width="360"/>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 ## Features
